@@ -83,6 +83,9 @@ Presentation is here:
 
 
 JAR file goes as follows:
+
+![JAR screenshot](https://github.com/user-attachments/assets/d643e608-e956-438c-8ab0-ff30a3257d6d)
+
 <component name="ArtifactManager">
   <artifact type="jar" name="SurveySystem2:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/SurveySystem2_jar</output-path>
