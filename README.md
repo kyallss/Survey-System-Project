@@ -43,7 +43,6 @@ Response.java: A class representing user responses to questions (if needed for f
 ## Team Members
 - **Kyal Asykpaeva** - Lead Developer
 - **Baiel Asanbekov** - Support specialist 
-- **Aivar Alymkulov** - Presentatative member and Project Manager
 
 ![photo_1](https://github.com/user-attachments/assets/7fe21671-c10b-4121-a86c-e4aa5d288759)
 ![photo_2](https://github.com/user-attachments/assets/4ff7b7aa-771a-4624-bea1-b657dee69cb1)
@@ -72,8 +71,6 @@ Summary:
 
 Kyial: Forked the project, completed the UI for creating and viewing surveys. Backend setup for CRUD operations. And Controller.
 Baiel: Writing documentation, minor changes to the code (Controller, and UI) and fixing errors (e.g. problems with merge, pull requests and javafx).
-Aivar: began testing the code, presentation and functionality overall
-
 
 UML Diagram here: 
 ![diagram](https://github.com/user-attachments/assets/f24a0e97-0703-49f8-9ec3-d380baa7a562)
